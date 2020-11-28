@@ -22,10 +22,10 @@ import com.ibm.wala.util.config.FileOfClasses;
 
 public class wala_main {
     public static void main(String[] args) throws IOException, InvalidClassFileException, ClassHierarchyException, CancelException {
-//        if(args[0].equals("-m"))
-//            test_select_method.test_select_method(args[1],args[2]);
-//        else if(args[0].equals("-c"))
-//            test_select_class.test_select_class(args[1],args[2]);
+        if(args[0].equals("-m"))
+            test_select_method.test_select_method(args[1],args[2]);
+        else if(args[0].equals("-c"))
+            test_select_class.test_select_class(args[1],args[2]);
 ////        test_select_class.test_select_class("input/target_1","input/target_1/change_info.txt");
 //        ArrayList<String> dot_file_string=file_io.readdot("input/class-CMD-cfa.dot");
 //        for(String str:dot_file_string){
@@ -48,4 +48,3 @@ public class wala_main {
 }
 
 
-        
