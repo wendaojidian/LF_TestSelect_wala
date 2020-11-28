@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="testSelection:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/testSelection_jar</output-path>
+    <root id="archive" name="Wala_1st.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/Pack_up/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Wala_1st" />
+      <element id="extracted-dir" path="C:/software/programmer/java/maven/LocalWarehouse/com/ibm/wala/com.ibm.wala.util/1.5.5/com.ibm.wala.util-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/software/programmer/java/maven/LocalWarehouse/org/jetbrains/annotations-java5/20.1.0/annotations-java5-20.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/software/programmer/java/maven/LocalWarehouse/com/ibm/wala/com.ibm.wala.core/1.5.5/com.ibm.wala.core-1.5.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/software/programmer/java/maven/LocalWarehouse/com/ibm/wala/com.ibm.wala.shrike/1.5.5/com.ibm.wala.shrike-1.5.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

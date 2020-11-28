@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="testSelection:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf812528-1096-4de7-96da-20a71a122c94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="C:\software\programmer\java\maven\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\software\programmer\java\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kV986pSEMNT6bE8u52iq0E7kcy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\Program_postgraduate\graduation_project\Wala_1st\input" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="I:\Program_postgraduate\graduation_project\Wala_1st\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="wala_main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="wala_main" />
+      <module name="Wala_1st" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.wala_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf812528-1096-4de7-96da-20a71a122c94" name="Default Changelist" comment="" />
+      <created>1605774731789</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605774731789</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="110" y="195" key="#Illuminated_Cloud" timestamp="1605936695683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="110" y="195" key="#Illuminated_Cloud/0.0.1920.1040@0.0.1920.1040" timestamp="1605936695683" />
+    <state x="880" y="189" key="#Project_Structure" timestamp="1606207736184">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="189" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1606207736184" />
+    <state x="736" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605775563751">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605775563751" />
+    <state x="1209" y="375" key="#com.intellij.ide.util.MemberChooser" timestamp="1605795277173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1209" y="375" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605795277173" />
+    <state x="532" y="438" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606400627877">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="532" y="438" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606400627877" />
+    <state x="161" y="324" key="FileChooserDialogImpl" timestamp="1606400631573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="324" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606400631573" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1606551600925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606551600925" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1606551600925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606551600925" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1606551600925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606551600925" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1606551600925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606551600925" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606406038487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606406038487" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606406038487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606406038487" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606406038487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606406038487" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606406038487">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606406038487" />
+    <state x="818" y="272" key="Maven.ArtifactSearchDialog" timestamp="1606490569330">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="818" y="272" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606490569330" />
+    <state x="441" y="224" width="958" height="722" key="SettingsEditor" timestamp="1606400686483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="441" y="224" width="958" height="722" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606400686483" />
+    <state x="749" y="444" key="classpath-attribute-editor" timestamp="1606400682132">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="444" key="classpath-attribute-editor/0.0.1920.1040@0.0.1920.1040" timestamp="1606400682132" />
+    <state x="1075" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605961632346">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1075" y="134" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605961632346" />
+    <state x="0" y="0" width="1607" height="743" key="dock-window-1" timestamp="1606490390657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" width="1607" height="743" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1606490390657" />
+    <state x="840" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1606490760699">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="840" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606490760699" />
+  </component>
+</project>
